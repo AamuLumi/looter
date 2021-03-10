@@ -1,0 +1,5 @@
+# Usage
+
+```
+npx live-server
+```

@@ -1,0 +1,13 @@
+{
+  "attack": {
+    "cols": 3,
+    "rows": 3,
+    "frames": 8,
+    "margin": [5, 0, 0, 8]
+  },
+  "idle": {
+    "cols": 3,
+    "rows": 2,
+    "frames": 4
+  }
+}
